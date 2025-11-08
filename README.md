@@ -59,7 +59,8 @@ Williamnagar, Meghalaya, India
 
 ---
 
-If you find this useful, feel free to ⭐ star the repository!
+If you found this helpful, consider ⭐ **starring** the repo!
+
 
 
 
